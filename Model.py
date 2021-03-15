@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep 28 16:46:08 2020
-
 @author: Purnendu Mishra
 """
 # Tensorflow library import
