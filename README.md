@@ -1,2 +1,6 @@
-# Latent_2.5D_heatmap
-Implementation of Hand Pose estimation via Latent 2.5D Heatmap regression
+# Latent 2.5D heatmap 
+### For Hand Pose estimatiom
+### from monocular RGB image
+##### Implementation using Tensorflow
+
+###### First, 2D Hand pose estimation part will be implemented
